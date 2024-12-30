@@ -21,7 +21,7 @@ I’ve contributed to **cutting-edge research** in **machine learning** and **fe
 - **Web Development & Visualization**: HTML, JS, Flask, Matplotlib, Seaborn, Tableau, Power BI, Microsoft Excel
 - **Cloud & Big Data**: GCP, AWS, Azure, PySpark, Kubernetes, Docker, MLflow, MapReduce, Scala
 - **Databases & Platforms**: MySQL, PostgreSQL, MongoDB, Elasticsearch, Wireshark, Linux (Kali, Ubuntu, OpenSUSE)
-- **Other Skills**: Mathematics, Physics, Economics, Data Modeling, System Analysis, Auditing, Presentation, Leadership, Communication, Problem-solving, Creativity, Attention to Detail, Analytical Thinking, Collaboration
+- **Other Skills**: Mathematics, Data Modeling, System Analysis, Auditing, Presentation, Leadership, Communication, Problem-solving, Creativity, Attention to Detail, Analytical Thinking, Collaboration
 
 ---
 
