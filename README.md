@@ -7,8 +7,8 @@
 ## 🧠 About Me  
 
 > "Data is the new oil, and I’m here to refine it and make it work for you."
-
-I’m a passionate **Data Scientist** with strong expertise in **machine learning**, **data analytics**, and **research**. I specialize in transforming complex datasets into actionable insights for driving business decisions and innovations. With a mix of **industrial experience**, **research expertise**, and **teaching**, I bridge the gap between theory and real-world applications.
+>
+I’m a passionate **Data Science Master's graduate** with strong expertise in **machine learning**, **data analytics**, and **research**. I specialize in transforming complex datasets into actionable insights for driving business decisions and innovations. With a mix of **industrial experience**, **research expertise**, and **teaching**, I bridge the gap between theory and real-world applications.
 
 I’ve contributed to **cutting-edge research** in **machine learning** and **federated learning**, and I love sharing my knowledge through teaching. My goal is to solve problems by applying **predictive modeling**, **statistical analysis**, and **AI** to enhance business performance and innovation.
 
