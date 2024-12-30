@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Snit Daniel Zerea!  
+# 👋 Hello, I'm Snit!  
 
 **Data Scientist | Data Analyst | Machine Learning Engineer | Researcher | Teacher**   
 
