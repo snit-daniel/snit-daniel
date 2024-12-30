@@ -1,13 +1,14 @@
 # 👋 Hello, I'm Snit Daniel Zerea!  
 
-**Data Scientist | Machine Learning Engineer | Researcher | Educator**  
-Abu Dhabi, UAE | [LinkedIn](https://linkedin.com/in/snit-daniel-2951581b7) | [GitHub](https://github.com/snit-daniel)  
+**Data Scientist | Data Analytics | Machine Learning Engineer | Researcher | Teacher**  
+Abu Dhabi, UAE 
 
 ---
 
 ## 🧠 About Me  
 
-> "Data is the new oil, and I’m here to refine it and make it work for you."  
+> "Data is the new oil, and I’m here to refine it and make it work for you."
+
 
 I’m a passionate **Data Scientist**, with a robust background in **machine learning** and **data analytics**. I thrive on transforming complex datasets into actionable insights that drive business decisions and innovations. With a blend of **industrial experience**, **research expertise**, and a knack for **teaching**, I have successfully worked on delivering impactful solutions that bridge the gap between data science theory and real-world applications.  
 
@@ -25,7 +26,7 @@ I am always eager to tackle new challenges, foster collaboration, and continue t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)  
-- **Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, XGBoost  
+- **Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Techniques**: Artificial Neural Networks, Natural Language Processing  
 
 ### 📊 **Statistical & Analytical Tools**  
