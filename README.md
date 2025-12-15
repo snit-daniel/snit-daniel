@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Snit!  
 
-**Data Scientist | Data Analyst | Machine Learning Engineer | Researcher | Teacher**   
+**AI Engineer | Data Scientist | Data Analyst | Machine Learning Engineer | Researcher | Teacher**   
 
 ---
 
